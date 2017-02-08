@@ -1,1 +1,2 @@
-# lorenz-system-visualiser
+# Lorenz System Visualiser
+I've been toying with openFrameworks and created a small program that visualises a Lorenz Attractor.
